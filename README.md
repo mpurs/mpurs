@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mpurs
+- 👋 Hi, I’m @Tumelo Makgolo
 - 👀 I’m interested in data Science
 - 🌱 I’m currently learning how to manage data
 - 💞️ I’m looking to collaborate on microsoft
